@@ -14,3 +14,7 @@ wordCheck is a web application which implements server-side ReactJS rendering (w
 - ``` npm install ```
 - ``` npm run dev ```
 - App will start by default on the port 3000
+
+### Screens
+
+https://lh3.googleusercontent.com/4OJSM_bGnMPo7R76ZBOhzINCw7BIxBWmRUfPz3HOR67eDDjahtoa-JezABEjefR9uom6pQi72BO5PP6ZZ633=w1742-h832-rw
