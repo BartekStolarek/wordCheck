@@ -17,4 +17,4 @@ wordCheck is a web application which implements server-side ReactJS rendering (w
 
 ### Screens
 
-https://lh3.googleusercontent.com/4OJSM_bGnMPo7R76ZBOhzINCw7BIxBWmRUfPz3HOR67eDDjahtoa-JezABEjefR9uom6pQi72BO5PP6ZZ633=w1742-h832-rw
+https://image.ibb.co/jGX0zc/word_Check.png
